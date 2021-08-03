@@ -1,4 +1,4 @@
-- Hi, I'm Kevin. I don't really program much outside of work or school, but I do, you'll probably find it here.
+- Hi, I'm Kevin. I don't really program much outside of work or school, but when I do, you'll probably find it here.
 
 
 
